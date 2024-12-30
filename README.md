@@ -1,5 +1,5 @@
 # Chess Trends Analytics
-This data science project explores three databases of chess games scraped from the internet. А diverse range of tools from the Python ecosystem is used to analyze the data and uncover meaningful trends.
+This data science project explores three datasets of chess games scraped from the internet. А diverse range of tools from the Python ecosystem is used to analyze the data and uncover meaningful trends.
 
 ## Project Structure
 - **`data_acquisition_and_cleaning.ipynb:`**: scraping, preparing and cleaning the data
